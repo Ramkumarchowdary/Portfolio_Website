@@ -13,7 +13,7 @@ const Hero = () => (
 
       </SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      This is Ramkumar, a B.Tech CSE Undergrad and aspiring frontend web developer. I love exploring various designs and building websites out of them. I enjoy making websites responsive, accessible, and pixel-perfect.
       </SectionText>
       <Button onClick={() => window.location ='https://github.com/Ramkumarchowdary' }>Know More</Button>
     </LeftSection>
