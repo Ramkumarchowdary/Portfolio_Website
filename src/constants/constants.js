@@ -35,15 +35,15 @@ export const projects = [
     visit: 'https://github.com/Ramkumarchowdary/Pig-Game',
     id: 3,
   },
-  {
-    title: 'Pig-Game',
-    description: "Pig game is a fun two-player game where players roll a die to score points. If a player rolls a 1, their turn ends and the other player gets a chance. Players can also choose to hold their score to add to their total points. The first to reach 100 points wins,it's a great way to challenge friends.",
-    image: '/images/pingame.png',
-    tags: ['HTML', ' CSS', 'JavaScript'],
-    source: 'https://pig-game-ecru.vercel.app/',
-    visit: 'https://github.com/Ramkumarchowdary/Pig-Game',
-    id: 4,
-  },
+  // {
+  //   title: 'Pig-Game',
+  //   description: "Pig game is a fun two-player game where players roll a die to score points. If a player rolls a 1, their turn ends and the other player gets a chance. Players can also choose to hold their score to add to their total points. The first to reach 100 points wins,it's a great way to challenge friends.",
+  //   image: '/images/pingame.png',
+  //   tags: ['HTML', ' CSS', 'JavaScript'],
+  //   source: 'https://pig-game-ecru.vercel.app/',
+  //   visit: 'https://github.com/Ramkumarchowdary/Pig-Game',
+  //   id: 4,
+  // },
 ];
 
 export const TimeLineData = [
