@@ -24,6 +24,7 @@ export const projects = [
       tags: ['Bootstrap', 'Weather Api'],
     source: 'https://weather-app-tau-sooty-51.vercel.app/',
     visit: 'https://github.com/Ramkumarchowdary/Weather_app',
+  
     id: 2,
   },
   {
