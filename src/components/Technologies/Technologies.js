@@ -9,7 +9,6 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>I've worked with a range a technologies in the web development world.
-      From Back-end To Design
     </SectionText>
     <List>
       <ListItem>
@@ -26,7 +25,7 @@ const Technologies = () =>  (
         <ListContainer>Back-End</ListContainer>
         <ListParagraph>
           Experience with<br />
-          Node and Databases
+          Node.js and MongoDB
         </ListParagraph>
 
       </ListItem>

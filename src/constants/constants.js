@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Gerícht Restaurant',
+    title: 'Restaurant Landing Page',
     description: "Gerícht Restaurant & Bar's website, built with React and Node, displays its menu, location, and offers online reservations. The user-friendly site features high-quality images, easy navigation, and contact information for customers.",
       image: '/images/portfolio.png',
       tags: [ 'React', 'Node'],
