@@ -23,7 +23,7 @@ const Hero = () => (
       <Button
         onClick={() =>
           (window.location =
-            "https://drive.google.com/file/d/11jMCILHMXihpsJro3S8LroZlBSeMOc8a/view?usp=sharing")
+            "https://drive.google.com/file/d/1yP4suOr7dqzGsT5VB3vQ1Ur9ZRWnkujr/view?usp=sharing")
         }
       >
         My Resume
